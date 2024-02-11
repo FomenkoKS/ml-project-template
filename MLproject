@@ -1,0 +1,9 @@
+name: {{name-of-project}}
+python_env: resources/venv.yaml
+# entry_points:
+#   main:
+#     parameters: 
+#       data_file: {type: string}
+#       n_trials: {type: float, default: 1000}
+#       verbosity: {type: string, default: "False"}
+#     command: "python src/train.py -f {data_file} -t {n_trials} -v {verbosity}"
